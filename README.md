@@ -7,7 +7,7 @@ As the network grows, mining incentive grows.
 Block Reward: (1 + txfees)^1000
 Difficulty retarget: every 6 hours
 Block Time: 60 seconds
-Max of 144 billion coins
+Max of 2 billion coins
 
 Ports
 -----------
